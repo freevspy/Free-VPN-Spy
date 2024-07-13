@@ -4,13 +4,13 @@ Offer Free VPN Nodes , You can use it in any device ,  Fast and safe!!!
 
 ## Node Details
 
-### Check Time: 2024.07.12
+### Check Time: 2024.07.13
 
-Node Count: 30
+Node Count: 33
 
-Max Speed: 15.27M/S
+Max Speed: 17.94M/S
 
-Node Region: Netherlands, Switzerland, Chile, United Kingdom, Brazil, Poland, France, United States, Germany, Argentina, Canada, Slovakia, Italy, Czech Republic, Austria
+Node Region: Serbia, Spain, Austria, United Kingdom, Czech Republic, Germany, Brazil, Finland, Poland, United States, France, Argentina, Slovenia, Netherlands, Italy
 
 ## Node Url
 
@@ -18,19 +18,19 @@ Node Region: Netherlands, Switzerland, Chile, United Kingdom, Brazil, Poland, Fr
 
 Protocols: SS, Trojan, Vmess
 
-https://freevpnspy.githubrowcontent.com/2024/07/20240712.txt
+https://freevpnspy.githubrowcontent.com/2024/07/20240713.txt
 
 ### 2. Clash(Vless not included)
 
 Protocols: SS, Trojan, Vmess
 
-https://freevpnspy.githubrowcontent.com/2024/07/20240712_novless.yaml
+https://freevpnspy.githubrowcontent.com/2024/07/20240713_novless.yaml
 
 ### 3. Clash(Vless included)
 
 Protocols:SS, Trojan, Vmess, Vless
 
-https://freevpnspy.githubrowcontent.com/2024/07/20240712_vless.yaml
+https://freevpnspy.githubrowcontent.com/2024/07/20240713_vless.yaml
 
 ## How to use
 
