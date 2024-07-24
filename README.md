@@ -4,7 +4,7 @@ Offer Free VPN Nodes , You can use it in any device ,  Fast and safe!!!
 
 ## Node Details
 
-### Check Time: 2024.07.23
+### Check Time: 2024.07.24
 
 Node Count: 34
 
@@ -18,19 +18,19 @@ Node Region: Poland, Slovakia, Spain, United Kingdom, Argentina, United States, 
 
 Protocols: SS, Trojan, Vmess
 
-https://freevpnspy.githubrowcontent.com/2024/07/20240723.txt
+https://freevpnspy.githubrowcontent.com/2024/07/20240724.txt
 
 ### 2. Clash(Vless not included)
 
 Protocols: SS, Trojan, Vmess
 
-https://freevpnspy.githubrowcontent.com/2024/07/20240723_novless.yaml
+https://freevpnspy.githubrowcontent.com/2024/07/20240724_novless.yaml
 
 ### 3. Clash(Vless included)
 
 Protocols:SS, Trojan, Vmess, Vless
 
-https://freevpnspy.githubrowcontent.com/2024/07/20240723_vless.yaml
+https://freevpnspy.githubrowcontent.com/2024/07/20240724_vless.yaml
 
 ## How to use
 
